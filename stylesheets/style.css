@@ -11,7 +11,7 @@ body {
 }
 .row{
 	text-align:center;
-	padding-bottom: 30px;
+	padding-bottom: 10px;
 }
 
 .east{
@@ -21,6 +21,7 @@ border-style:solid;
 border-color: steelblue;
 border-width:3px;
 border-radius: 5px;
+
 }
 
 .west{
@@ -35,8 +36,7 @@ border-radius: 5px;
 .page-image{
 	height: 290px;
 	align-content: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 }
 
 .img-circle{
@@ -51,16 +51,19 @@ border-radius: 5px;
 font-family: 'Archivo Black', sans-serif;
 color:goldenrod;
 font-size: 80px;
+padding-top: 20px;
 }
 
 .font_east {
 font-family: 'Archivo Black', sans-serif;
 color:steelblue;
 font-size: 80px;
+padding-top: 20px;
 }
 
 .font_light {
 font-family: 'Poppins', sans-serif;
 color: grey;
 font-size: 80px;
+line-height: -20px;
 }
